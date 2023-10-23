@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"path": "../../01-color-flipper"
+	}
+],
+  "settings": {
+    "liveServer.settings.port": 5501
+  }
+}
